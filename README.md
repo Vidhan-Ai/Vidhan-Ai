@@ -94,8 +94,6 @@ A creative technology project combining **design, development and digital experi
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="170"/>
-
 <img src="./profile/top-langs.svg" height="170"/>
 
 <br><br>
