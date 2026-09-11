@@ -94,9 +94,9 @@ A creative technology project combining **design, development and digital experi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vidhan-Ai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+<img src="./profile/stats.svg" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhan-Ai&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+<img src="./profile/top-langs.svg" height="170"/>
 
 <br><br>
 
